@@ -13,4 +13,8 @@ num6 = 60
 
 
 
+
 num10  =  123455
+
+string = 'nihao'
+
